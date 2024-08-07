@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'LeagueSpartan';
+    src: url(../public/assets/static/LeagueSpartan-Regular.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'LeagueSpartan';
+    src: url(../public/assets/static/LeagueSpartan-Bold.ttf);
+    font-weight: bold;
+}
+
+
+
+html{
+    width: 100%;
+    height: auto;
+    font-family: 'LeagueSpartan';
+}
+
+body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+#root{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+

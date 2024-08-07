@@ -1,0 +1,19 @@
+nav{
+    background-color: hsl(180, 29%, 50%);
+    width: 100%;
+    background-image: url(../public/assets/images/bg-header-desktop.svg);
+    background-size: cover;
+   background-repeat: no-repeat;
+    height: 70px;
+}
+
+main{
+    background-color: hsl(180, 52%, 96%);
+  flex-grow: 1;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  
+}
