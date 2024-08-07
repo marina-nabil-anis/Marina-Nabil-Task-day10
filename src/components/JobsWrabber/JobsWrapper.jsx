@@ -8,7 +8,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 1,
           "company": "Photosnap",
-          "logo": "../../../public/assets/images/photosnap.svg",
+          "logo": "/assets/images/photosnap.svg",
           "new": true,
           "featured": true,
           "position": "Senior Frontend Developer",
@@ -23,7 +23,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 2,
           "company": "Manage",
-          "logo": "../../../public/assets/images/manage.svg",
+          "logo": "/assets/images/manage.svg",
           "new": true,
           "featured": true,
           "position": "Fullstack Developer",
@@ -38,7 +38,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 3,
           "company": "Account",
-          "logo": "../../../public/assets/images/account.svg",
+          "logo": "/assets/images/account.svg",
           "new": true,
           "featured": false,
           "position": "Junior Frontend Developer",
@@ -53,7 +53,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 4,
           "company": "MyHome",
-          "logo": "../../../public/assets/images/myhome.svg",
+          "logo": "/assets/images/myhome.svg",
           "new": false,
           "featured": false,
           "position": "Junior Frontend Developer",
@@ -68,7 +68,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 5,
           "company": "Loop Studios",
-          "logo": "../../../public/assets/images/loop-studios.svg",
+          "logo": "/assets/images/loop-studios.svg",
           "new": false,
           "featured": false,
           "position": "Software Engineer",
@@ -83,7 +83,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 6,
           "company": "FaceIt",
-          "logo": "../../../public/assets/images/faceit.svg",
+          "logo": "/assets/images/faceit.svg",
           "new": false,
           "featured": false,
           "position": "Junior Backend Developer",
@@ -98,7 +98,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 7,
           "company": "Shortly",
-          "logo": "../../../public/assets/images/shortly.svg",
+          "logo": "/assets/images/shortly.svg",
           "new": false,
           "featured": false,
           "position": "Junior Developer",
@@ -113,7 +113,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 8,
           "company": "Insure",
-          "logo": "../../../public/assets/images/insure.svg",
+          "logo": "/assets/images/insure.svg",
           "new": false,
           "featured": false,
           "position": "Junior Frontend Developer",
@@ -128,7 +128,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 9,
           "company": "Eyecam Co.",
-          "logo": "../../../public/assets/images/eyecam-co.svg",
+          "logo": "/assets/images/eyecam-co.svg",
           "new": false,
           "featured": false,
           "position": "Full Stack Engineer",
@@ -143,7 +143,7 @@ const [jobs,setJobs]=useState([
         {
           "id": 10,
           "company": "The Air Filter Company",
-          "logo": "../../../public/assets/images/the-air-filter-company.svg",
+          "logo": "/assets/images/the-air-filter-company.svg",
           "new": false,
           "featured": false,
           "position": "Front-end Dev",
